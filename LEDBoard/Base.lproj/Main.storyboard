@@ -88,7 +88,9 @@
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="aXP-GA-dkv">
                                                 <rect key="frame" x="0.0" y="0.0" width="56" height="46"/>
                                                 <state key="normal" title="Button"/>
-                                                <buttonConfiguration key="configuration" style="plain" image="yellow_circle"/>
+                                                <buttonConfiguration key="configuration" style="plain" image="yellow_circle">
+                                                    <preferredSymbolConfiguration key="preferredSymbolConfigurationForImage"/>
+                                                </buttonConfiguration>
                                                 <connections>
                                                     <action selector="tapTextColorButton:" destination="Ndb-Nn-aZO" eventType="touchUpInside" id="VFt-Zz-vEg"/>
                                                 </connections>
@@ -96,7 +98,9 @@
                                             <button opaque="NO" alpha="0.20000000000000001" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="atQ-mt-C73">
                                                 <rect key="frame" x="76" y="0.0" width="56" height="46"/>
                                                 <state key="normal" title="Button"/>
-                                                <buttonConfiguration key="configuration" style="plain" image="purple_circle"/>
+                                                <buttonConfiguration key="configuration" style="plain" image="purple_circle">
+                                                    <preferredSymbolConfiguration key="preferredSymbolConfigurationForImage"/>
+                                                </buttonConfiguration>
                                                 <connections>
                                                     <action selector="tapTextColorButton:" destination="Ndb-Nn-aZO" eventType="touchUpInside" id="ihj-Da-E3s"/>
                                                 </connections>
@@ -104,7 +108,9 @@
                                             <button opaque="NO" alpha="0.20000000000000001" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="922-Rc-eMW">
                                                 <rect key="frame" x="152" y="0.0" width="56" height="46"/>
                                                 <state key="normal" title="Button"/>
-                                                <buttonConfiguration key="configuration" style="plain" image="green_circle"/>
+                                                <buttonConfiguration key="configuration" style="plain" image="green_circle">
+                                                    <preferredSymbolConfiguration key="preferredSymbolConfigurationForImage"/>
+                                                </buttonConfiguration>
                                                 <connections>
                                                     <action selector="tapTextColorButton:" destination="Ndb-Nn-aZO" eventType="touchUpInside" id="Ug2-Pk-DnG"/>
                                                 </connections>

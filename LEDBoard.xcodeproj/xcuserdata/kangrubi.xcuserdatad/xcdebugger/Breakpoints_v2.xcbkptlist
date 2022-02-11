@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "391784A9-97A9-466E-AC3F-A9303A792575"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C1F23651-FA53-4D46-9C57-DD7C50C74073"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LEDBoard/SceneDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "3"
+            endingLineNumber = "3"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "373069A7-7B72-4C99-A181-F5F1FB97514C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LEDBoard/SettingViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "SettingViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "373069A7-7B72-4C99-A181-F5F1FB97514C - 9c1907717c82ca80"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LEDBoard.SettingViewController.blueButton.getter : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "LEDBoard"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kangrubi/Library/Mobile%20Documents/com~apple~CloudDocs/portfolio/LEDBoard/LEDBoard/SettingViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "373069A7-7B72-4C99-A181-F5F1FB97514C - f3455650daf29a8c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LEDBoard.SettingViewController.blueButton.setter : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "LEDBoard"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kangrubi/Library/Mobile%20Documents/com~apple~CloudDocs/portfolio/LEDBoard/LEDBoard/SettingViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "373069A7-7B72-4C99-A181-F5F1FB97514C - 5c583f4c549d28ec"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LEDBoard.SettingViewController.blueButton.modify : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "LEDBoard"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kangrubi/Library/Mobile%20Documents/com~apple~CloudDocs/portfolio/LEDBoard/LEDBoard/SettingViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "373069A7-7B72-4C99-A181-F5F1FB97514C - bf23394f914d2427"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LEDBoard.SettingViewController.blueButton.modify : Swift.Optional&lt;__C.UIButton&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "LEDBoard"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kangrubi/Library/Mobile%20Documents/com~apple~CloudDocs/portfolio/LEDBoard/LEDBoard/SettingViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "373069A7-7B72-4C99-A181-F5F1FB97514C - 4a0a875ee207fdcb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LEDBoard.SettingViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; LEDBoard.SettingViewController"
+                  moduleName = "LEDBoard"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kangrubi/Library/Mobile%20Documents/com~apple~CloudDocs/portfolio/LEDBoard/LEDBoard/SettingViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "308">
+               </Location>
+               <Location
+                  uuid = "373069A7-7B72-4C99-A181-F5F1FB97514C - 534f6e7488cf3cd0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LEDBoard.SettingViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;LEDBoard.SettingViewController&gt;"
+                  moduleName = "LEDBoard"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kangrubi/Library/Mobile%20Documents/com~apple~CloudDocs/portfolio/LEDBoard/LEDBoard/SettingViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "284">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
